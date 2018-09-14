@@ -54,7 +54,7 @@ namespace Day_08_Dictionaries_and_Maps
                 {
                     Console.WriteLine("{0}={1}", item, dict[item]);
                 }
-                catch (Exception ex)
+                catch (Exception)
                 {
                     Console.WriteLine("Not found");
                     //throw;

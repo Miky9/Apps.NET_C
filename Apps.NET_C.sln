@@ -23,6 +23,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day_07_Arrays", "C_1_0_Hack
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day_08_Dictionaries_and_Maps", "C_1_0_HackerRank_30\Day_08_Dictionaries_and_Maps\Day_08_Dictionaries_and_Maps.csproj", "{41DAC929-B014-424B-B30B-8C8BBF477EFC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day_09_Recursion", "C_1_0_HackerRank_30\Day_09_Recursion\Day_09_Recursion.csproj", "{4CEF437F-6975-479A-9F87-0BB679C827F4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -65,6 +67,10 @@ Global
 		{41DAC929-B014-424B-B30B-8C8BBF477EFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{41DAC929-B014-424B-B30B-8C8BBF477EFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{41DAC929-B014-424B-B30B-8C8BBF477EFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CEF437F-6975-479A-9F87-0BB679C827F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CEF437F-6975-479A-9F87-0BB679C827F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CEF437F-6975-479A-9F87-0BB679C827F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CEF437F-6975-479A-9F87-0BB679C827F4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -79,6 +85,7 @@ Global
 		{155FD303-6247-4F85-BEAD-C46913463A71} = {21144281-5F49-40F6-A62C-22FF523FCC73}
 		{BFD04274-8C7B-40BE-8CBD-74CFA32254D5} = {21144281-5F49-40F6-A62C-22FF523FCC73}
 		{41DAC929-B014-424B-B30B-8C8BBF477EFC} = {21144281-5F49-40F6-A62C-22FF523FCC73}
+		{4CEF437F-6975-479A-9F87-0BB679C827F4} = {21144281-5F49-40F6-A62C-22FF523FCC73}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {676CB759-9CB1-4C94-84A4-35D50A4BEB70}
